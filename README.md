@@ -1,2 +1,2 @@
 # javascript-counter
-addEventListener()
+I use vanilla  JavaScript to make a counter, and I use addEventListener(),textContext
